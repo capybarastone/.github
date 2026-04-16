@@ -1,4 +1,4 @@
-# Capybarastone
+# Herd
 Mike Ng & Matt Compton capstone project
 
 ## Wiki
